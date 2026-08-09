@@ -45,20 +45,16 @@ The game itself is under active development and the source code is currently pri
 
 <p align="center">
   <img src="images/deckbuilder.png" width="340">
-  <img src="images/gameplay.png" width="340">
+  <img src="images/battle.png" width="340">
 </p>
 
 <p align="center">
-  <img src="images/battle.png" width="500">
+  <img src="images/gameplay.png" width="500">
 </p>
 
 ### Gameplay
 
-<h3>Gameplay</h3>
 
-<p align="center">
-  <img src="images/gameplay.png" width="350">
-</p>
 
 # Gameplay Video
 
