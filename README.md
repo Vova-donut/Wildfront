@@ -41,17 +41,24 @@ The game itself is under active development and the source code is currently pri
 
 # Screenshots
 
-### Deck Builder
+### Deck Builder and Battle
 
-![Deck Builder](images/deck.png)
+<p align="center">
+  <img src="images/deckbuilder.png" width="340">
+  <img src="images/gameplay.png" width="340">
+</p>
+
+<p align="center">
+  <img src="images/battle.png" width="500">
+</p>
 
 ### Gameplay
 
-![Gameplay](images/gameplay.png)
+<h3>Gameplay</h3>
 
-### Battle
-
-![Battle](images/battle.png)
+<p align="center">
+  <img src="images/gameplay.png" width="350">
+</p>
 
 # Gameplay Video
 
