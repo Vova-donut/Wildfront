@@ -1,4 +1,8 @@
 # Wildfront
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
+![Photon](https://img.shields.io/badge/Networking-Photon%20PUN%202-004480)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
 
 A competitive real-time PvP strategy game where cute animals become fearless warriors.
 
@@ -44,19 +48,19 @@ The game itself is under active development and the source code is currently pri
 
 # Screenshots
 
-### Deck Builder
+
 
 <p align="left">
   <img src="images/deck.png" width="500">
 </p>
 
-### Battle
+
 
 <p align="left">
   <img src="images/battle.png" width="500">
 </p>
 
-### Gameplay
+
 
 <p align="left">
   <img src="images/gameplay.png" width="500">
@@ -68,15 +72,32 @@ Coming soon.
 
 ---
 
+## Technical Highlights
+
+- ⚔️ Real-time online multiplayer using Photon PUN 2
+- 🗺️ Grid-based battlefield with tactical unit placement
+- 🃏 Deck-building system with energy management
+- 🐾 Unique animal units with individual abilities and behaviors
+- 💥 Real-time combat with synchronized game state
+- 📱 Mobile-first portrait interface built with Unity UI
+
+  ---
+
 # Roadmap
 
-- [x] Core gameplay
-- [x] Multiplayer prototype
-- [x] Deck system
-- [x] Unit abilities
-- [ ] Visual polish
-- [ ] Closed playtest
-- [ ] Steam / App Store release
+✅ Core gameplay
+
+✅ Multiplayer prototype
+
+✅ Deck system
+
+✅ Unit abilities
+
+🟨 Visual polish
+
+⬜ Closed playtest
+
+⬜ Steam / App Store release
 
 ---
 
@@ -91,3 +112,7 @@ Coming soon.
 # Status
 
 🟢 Active Development
+
+Target platform
+
+📱 Mobile (Android / iOS)
