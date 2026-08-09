@@ -2,9 +2,12 @@
 
 A competitive real-time PvP strategy game where cute animals become fearless warriors.
 
-Build your deck, deploy units across the battlefield, and outplay your opponent using strategy, positioning, and unique unit abilities.
+🎮 Real-time PvP
+🃏 Deck Building
+⚡ Strategy
+🌐 Multiplayer
 
-> ⚠️ Wildfront is currently in active development.
+> ⚠️ Currently in active development.
 
 ---
 
