@@ -27,6 +27,14 @@ Destroy your opponent's base before they destroy yours.
 
 ---
 
+# Gameplay Video
+
+<img src="docs/Wildfront_gif_high_quality.gif" alt="Wildfront Gameplay" width="450">
+
+A short gameplay preview showing real-time online PvP and unit interactions.
+
+---
+
 # Features
 
 - 🎮 Real-time PvP battles
@@ -43,32 +51,6 @@ Destroy your opponent's base before they destroy yours.
 This repository showcases the project.
 
 The game itself is under active development and the source code is currently private.
-
----
-
-# Screenshots
-
-
-
-<p align="left">
-  <img src="images/deck.png" width="500">
-</p>
-
-
-
-<p align="left">
-  <img src="images/battle.png" width="500">
-</p>
-
-
-
-<p align="left">
-  <img src="images/gameplay.png" width="500">
-</p>
-
-# Gameplay Video
-
-Coming soon.
 
 ---
 
@@ -108,6 +90,12 @@ Coming soon.
 - Photon PUN 2
 
 ---
+
+# Screenshot
+
+<p align="left">
+  <img src="images/gameplay.png" width="500">
+</p>
 
 # Status
 
